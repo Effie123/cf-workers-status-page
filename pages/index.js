@@ -95,16 +95,13 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
               Cloudflare Workers{' '}
             </a>
             &{' '}
-            <a href="https://flareact.com/" target="_blank">
-              Flareact{' '}
-            </a>
           </div>
           <div>
             <a
-              href="https://github.com/eidam/cf-workers-status-page"
+              href="https://t.me/SpeXial"
               target="_blank"
             >
-              Get Your Status Page
+              Contace Me!-By Telegram
             </a>
           </div>
         </div>
