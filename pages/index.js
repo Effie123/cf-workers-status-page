@@ -94,7 +94,6 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
             <a href="https://workers.cloudflare.com/" target="_blank">
               Cloudflare Workers{' '}
             </a>
-            &{' '}
           </div>
           <div>
             <a
