@@ -30,4 +30,11 @@ monitors:
     method: GET
     expectStatus: 200
 
+  - id: 壁纸
+    name: 壁纸
+    description: 'I insist on the runway,never leave.'
+    url: 'https://acg.sl.al/'
+    method: GET
+    expectStatus: 200
+
 
